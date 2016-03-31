@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7bd8fd52-9c64-478e-9d39-451a83aca812++8762",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7bd8fd52-9c64-478e-9d39-451a83aca812++8762" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "934EBB862EAFA86055D6D73CB7FD94862838831C" : 0,
+    "7bd8fd52-9c64-478e-9d39-451a83aca812++8762" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E83E72D-DDF1-4AC1-ADEE-085F2232C773",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "934EBB862EAFA86055D6D73CB7FD94862838831C" : "KLCPopUp\/",
+    "7bd8fd52-9c64-478e-9d39-451a83aca812++8762" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KLCPopup",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KLCPopup.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.inpossoft.com",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7bd8fd52-9c64-478e-9d39-451a83aca812++8762"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:inpossoft\/KLCPopup.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "934EBB862EAFA86055D6D73CB7FD94862838831C"
+    }
+  ]
+}
